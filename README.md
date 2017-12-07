@@ -8,3 +8,6 @@ this is a
 
 This is the line I added in the formatting branch!
 :tada:
+
+I am editing this file through the GitHub Desktop application.
+:fireworks: :tada:
